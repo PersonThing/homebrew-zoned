@@ -1,6 +1,6 @@
 cask "zoned" do
   version "0.1.0"
-  sha256 "PLACEHOLDER"
+  sha256 "81da00ee11a0b101e70446584e3e6f74e02f786a3019bcd1ebe016ab459ab969"
 
   url "https://github.com/PersonThing/zoned/releases/download/v#{version}/Zoned-#{version}.zip"
   name "Zoned"
